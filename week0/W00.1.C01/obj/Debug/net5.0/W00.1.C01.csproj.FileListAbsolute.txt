@@ -1,0 +1,15 @@
+/Users/thom2503/Documents/School/oopd/week0/W00.1.C01/bin/Debug/net5.0/W00.1.C01.deps.json
+/Users/thom2503/Documents/School/oopd/week0/W00.1.C01/bin/Debug/net5.0/W00.1.C01.runtimeconfig.json
+/Users/thom2503/Documents/School/oopd/week0/W00.1.C01/bin/Debug/net5.0/W00.1.C01.runtimeconfig.dev.json
+/Users/thom2503/Documents/School/oopd/week0/W00.1.C01/bin/Debug/net5.0/W00.1.C01.dll
+/Users/thom2503/Documents/School/oopd/week0/W00.1.C01/bin/Debug/net5.0/ref/W00.1.C01.dll
+/Users/thom2503/Documents/School/oopd/week0/W00.1.C01/bin/Debug/net5.0/W00.1.C01.pdb
+/Users/thom2503/Documents/School/oopd/week0/W00.1.C01/obj/Debug/net5.0/W00.1.C01.csprojAssemblyReference.cache
+/Users/thom2503/Documents/School/oopd/week0/W00.1.C01/obj/Debug/net5.0/W00.1.C01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thom2503/Documents/School/oopd/week0/W00.1.C01/obj/Debug/net5.0/W00.1.C01.AssemblyInfoInputs.cache
+/Users/thom2503/Documents/School/oopd/week0/W00.1.C01/obj/Debug/net5.0/W00.1.C01.AssemblyInfo.cs
+/Users/thom2503/Documents/School/oopd/week0/W00.1.C01/obj/Debug/net5.0/W00.1.C01.csproj.CoreCompileInputs.cache
+/Users/thom2503/Documents/School/oopd/week0/W00.1.C01/obj/Debug/net5.0/W00.1.C01.dll
+/Users/thom2503/Documents/School/oopd/week0/W00.1.C01/obj/Debug/net5.0/ref/W00.1.C01.dll
+/Users/thom2503/Documents/School/oopd/week0/W00.1.C01/obj/Debug/net5.0/W00.1.C01.pdb
+/Users/thom2503/Documents/School/oopd/week0/W00.1.C01/obj/Debug/net5.0/W00.1.C01.genruntimeconfig.cache
