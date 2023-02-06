@@ -1,0 +1,15 @@
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week1/W01.1.H04/obj/Debug/net7.0/W01.1.H04.csproj.AssemblyReference.cache
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week1/W01.1.H04/obj/Debug/net7.0/W01.1.H04.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week1/W01.1.H04/obj/Debug/net7.0/W01.1.H04.AssemblyInfoInputs.cache
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week1/W01.1.H04/obj/Debug/net7.0/W01.1.H04.AssemblyInfo.cs
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week1/W01.1.H04/obj/Debug/net7.0/W01.1.H04.csproj.CoreCompileInputs.cache
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week1/W01.1.H04/bin/Debug/net7.0/W01.1.H04
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week1/W01.1.H04/bin/Debug/net7.0/W01.1.H04.deps.json
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week1/W01.1.H04/bin/Debug/net7.0/W01.1.H04.runtimeconfig.json
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week1/W01.1.H04/bin/Debug/net7.0/W01.1.H04.dll
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week1/W01.1.H04/bin/Debug/net7.0/W01.1.H04.pdb
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week1/W01.1.H04/obj/Debug/net7.0/W01.1.H04.dll
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week1/W01.1.H04/obj/Debug/net7.0/refint/W01.1.H04.dll
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week1/W01.1.H04/obj/Debug/net7.0/W01.1.H04.pdb
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week1/W01.1.H04/obj/Debug/net7.0/W01.1.H04.genruntimeconfig.cache
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week1/W01.1.H04/obj/Debug/net7.0/ref/W01.1.H04.dll
