@@ -1,0 +1,15 @@
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week2/Day1/W02.1.H03/obj/Debug/net7.0/W02.1.H03.csproj.AssemblyReference.cache
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week2/Day1/W02.1.H03/obj/Debug/net7.0/W02.1.H03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week2/Day1/W02.1.H03/obj/Debug/net7.0/W02.1.H03.AssemblyInfoInputs.cache
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week2/Day1/W02.1.H03/obj/Debug/net7.0/W02.1.H03.AssemblyInfo.cs
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week2/Day1/W02.1.H03/obj/Debug/net7.0/W02.1.H03.csproj.CoreCompileInputs.cache
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week2/Day1/W02.1.H03/bin/Debug/net7.0/W02.1.H03
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week2/Day1/W02.1.H03/bin/Debug/net7.0/W02.1.H03.deps.json
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week2/Day1/W02.1.H03/bin/Debug/net7.0/W02.1.H03.runtimeconfig.json
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week2/Day1/W02.1.H03/bin/Debug/net7.0/W02.1.H03.dll
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week2/Day1/W02.1.H03/bin/Debug/net7.0/W02.1.H03.pdb
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week2/Day1/W02.1.H03/obj/Debug/net7.0/W02.1.H03.dll
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week2/Day1/W02.1.H03/obj/Debug/net7.0/refint/W02.1.H03.dll
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week2/Day1/W02.1.H03/obj/Debug/net7.0/W02.1.H03.pdb
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week2/Day1/W02.1.H03/obj/Debug/net7.0/W02.1.H03.genruntimeconfig.cache
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week2/Day1/W02.1.H03/obj/Debug/net7.0/ref/W02.1.H03.dll
