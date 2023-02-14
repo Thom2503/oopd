@@ -1,0 +1,15 @@
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week2/lesson/Dices/bin/Debug/net7.0/Dices
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week2/lesson/Dices/bin/Debug/net7.0/Dices.deps.json
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week2/lesson/Dices/bin/Debug/net7.0/Dices.runtimeconfig.json
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week2/lesson/Dices/bin/Debug/net7.0/Dices.dll
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week2/lesson/Dices/bin/Debug/net7.0/Dices.pdb
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week2/lesson/Dices/obj/Debug/net7.0/Dices.csproj.AssemblyReference.cache
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week2/lesson/Dices/obj/Debug/net7.0/Dices.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week2/lesson/Dices/obj/Debug/net7.0/Dices.AssemblyInfoInputs.cache
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week2/lesson/Dices/obj/Debug/net7.0/Dices.AssemblyInfo.cs
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week2/lesson/Dices/obj/Debug/net7.0/Dices.csproj.CoreCompileInputs.cache
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week2/lesson/Dices/obj/Debug/net7.0/Dices.dll
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week2/lesson/Dices/obj/Debug/net7.0/refint/Dices.dll
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week2/lesson/Dices/obj/Debug/net7.0/Dices.pdb
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week2/lesson/Dices/obj/Debug/net7.0/Dices.genruntimeconfig.cache
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week2/lesson/Dices/obj/Debug/net7.0/ref/Dices.dll
