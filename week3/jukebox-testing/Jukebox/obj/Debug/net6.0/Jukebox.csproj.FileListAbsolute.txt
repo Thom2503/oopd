@@ -1,0 +1,15 @@
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week3/jukebox-testing/Jukebox/bin/Debug/net6.0/Jukebox
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week3/jukebox-testing/Jukebox/bin/Debug/net6.0/Jukebox.deps.json
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week3/jukebox-testing/Jukebox/bin/Debug/net6.0/Jukebox.runtimeconfig.json
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week3/jukebox-testing/Jukebox/bin/Debug/net6.0/Jukebox.dll
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week3/jukebox-testing/Jukebox/bin/Debug/net6.0/Jukebox.pdb
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week3/jukebox-testing/Jukebox/obj/Debug/net6.0/Jukebox.csproj.AssemblyReference.cache
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week3/jukebox-testing/Jukebox/obj/Debug/net6.0/Jukebox.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week3/jukebox-testing/Jukebox/obj/Debug/net6.0/Jukebox.AssemblyInfoInputs.cache
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week3/jukebox-testing/Jukebox/obj/Debug/net6.0/Jukebox.AssemblyInfo.cs
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week3/jukebox-testing/Jukebox/obj/Debug/net6.0/Jukebox.csproj.CoreCompileInputs.cache
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week3/jukebox-testing/Jukebox/obj/Debug/net6.0/Jukebox.dll
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week3/jukebox-testing/Jukebox/obj/Debug/net6.0/refint/Jukebox.dll
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week3/jukebox-testing/Jukebox/obj/Debug/net6.0/Jukebox.pdb
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week3/jukebox-testing/Jukebox/obj/Debug/net6.0/Jukebox.genruntimeconfig.cache
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week3/jukebox-testing/Jukebox/obj/Debug/net6.0/ref/Jukebox.dll
