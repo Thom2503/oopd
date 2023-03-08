@@ -8,7 +8,7 @@ public class Program
 	{
 		StreamReader reader = new StreamReader("People.json");
 		string File2JSON = reader.ReadToEnd();
-		List<Person> lPersons = JsonConvert.DeserializeObject<list<Person>>(File2JSON)!;
+		List<Person> lPersons = JsonConvert.DeserializeObject<List<Person>>(File2JSON)!;
 		reader.Close();
 		reader.Dispose();
 

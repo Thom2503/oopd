@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cvsI9qmPlTMRmmsDfdz10FLi7hnTGUG8A6hICg4JE/pkN0K0e0RKKo7wPll5LXnO1XBEIPg88vgZPRqYjyKWIQ==",
+  "success": true,
+  "projectFilePath": "/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week4/classproblems/W04.1.C06/W04.1.C06.csproj",
+  "expectedPackageFiles": [
+    "/Users/thom2503/.nuget/packages/newtonsoft.json/13.0.2/newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

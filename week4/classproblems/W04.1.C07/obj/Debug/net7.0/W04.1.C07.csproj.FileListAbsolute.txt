@@ -1,0 +1,17 @@
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week4/classproblems/W04.1.C07/obj/Debug/net7.0/W04.1.C07.csproj.AssemblyReference.cache
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week4/classproblems/W04.1.C07/obj/Debug/net7.0/W04.1.C07.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week4/classproblems/W04.1.C07/obj/Debug/net7.0/W04.1.C07.AssemblyInfoInputs.cache
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week4/classproblems/W04.1.C07/obj/Debug/net7.0/W04.1.C07.AssemblyInfo.cs
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week4/classproblems/W04.1.C07/obj/Debug/net7.0/W04.1.C07.csproj.CoreCompileInputs.cache
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week4/classproblems/W04.1.C07/bin/Debug/net7.0/W04.1.C07
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week4/classproblems/W04.1.C07/bin/Debug/net7.0/W04.1.C07.deps.json
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week4/classproblems/W04.1.C07/bin/Debug/net7.0/W04.1.C07.runtimeconfig.json
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week4/classproblems/W04.1.C07/bin/Debug/net7.0/W04.1.C07.dll
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week4/classproblems/W04.1.C07/bin/Debug/net7.0/W04.1.C07.pdb
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week4/classproblems/W04.1.C07/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week4/classproblems/W04.1.C07/obj/Debug/net7.0/W04.1.C07.csproj.CopyComplete
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week4/classproblems/W04.1.C07/obj/Debug/net7.0/W04.1.C07.dll
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week4/classproblems/W04.1.C07/obj/Debug/net7.0/refint/W04.1.C07.dll
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week4/classproblems/W04.1.C07/obj/Debug/net7.0/W04.1.C07.pdb
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week4/classproblems/W04.1.C07/obj/Debug/net7.0/W04.1.C07.genruntimeconfig.cache
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week4/classproblems/W04.1.C07/obj/Debug/net7.0/ref/W04.1.C07.dll
