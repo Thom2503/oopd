@@ -54,6 +54,7 @@ public class Book
 			Console.WriteLine($"Invalid JSON. {ex.Message}");
 		}
 	}
+
 	public static void RemoveAllBooks()
 	{
 		Book.Books = new List<Book>();
