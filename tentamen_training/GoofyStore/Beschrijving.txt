@@ -1,0 +1,56 @@
+Assignment
+
+You are tasked with creating a program for a fictional online store called "Wonders of Nature". 
+The store has many different types of products, and they want to keep track of them in a digital database. 
+
+Your program should have the following classes and interfaces:
+IProduct interface
+
+    An IProduct has a name, a price, and a description.
+    Implement read-only properties to get the name, price, and description.
+
+Product class
+
+    Implement the IProduct interface in the Product class.
+    Implement a constructor that takes the name, price, and description as parameters.
+    Override the ToString() method to return a string representation of the product.
+
+IDiscount interface
+
+    An IDiscount is a type of product that has a discount percentage.
+    Implement a read-only property to get the discount percentage.
+
+DiscountedProduct class
+
+    Implement the IProduct and IDiscount interfaces in the DiscountedProduct class.
+    Implement a constructor that takes the name, price, description, and discount percentage as parameters.
+
+IPromotion interface
+
+    An IPromotion is a set of discounted products.
+    Implement a read-only property to get the collection of discounted products.
+
+Promotion class
+
+    Implement the IPromotion interface in the Promotion class.
+    Implement a constructor that takes no parameters.
+    Implement methods to add and remove discounted products from the collection.
+    Override the ToString() method to return a string representation of the promotion.
+
+Program class
+
+    In the Main method, create a new promotion.
+    Add a few discounted products of different types to the promotion.
+    Print out the information of each discounted product in the promotion.
+    Print out the total discount percentage of the promotion.
+
+Goofy Setting
+
+The Wonders of Nature store is not your typical online store. They specialize in selling bizarre and exotic products, such as:
+
+    A plant that glows in the dark
+    A crystal that changes color depending on the weather
+    A potion that makes you invisible for 30 seconds
+    A piece of meteorite that grants you telekinetic powers
+
+Your program should be able to handle these unusual products with ease.

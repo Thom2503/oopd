@@ -1,0 +1,15 @@
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/Vehicles/obj/Debug/net7.0/Vehicles.csproj.AssemblyReference.cache
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/Vehicles/obj/Debug/net7.0/Vehicles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/Vehicles/obj/Debug/net7.0/Vehicles.AssemblyInfoInputs.cache
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/Vehicles/obj/Debug/net7.0/Vehicles.AssemblyInfo.cs
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/Vehicles/obj/Debug/net7.0/Vehicles.csproj.CoreCompileInputs.cache
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/Vehicles/bin/Debug/net7.0/Vehicles
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/Vehicles/bin/Debug/net7.0/Vehicles.deps.json
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/Vehicles/bin/Debug/net7.0/Vehicles.runtimeconfig.json
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/Vehicles/bin/Debug/net7.0/Vehicles.dll
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/Vehicles/bin/Debug/net7.0/Vehicles.pdb
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/Vehicles/obj/Debug/net7.0/Vehicles.dll
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/Vehicles/obj/Debug/net7.0/refint/Vehicles.dll
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/Vehicles/obj/Debug/net7.0/Vehicles.pdb
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/Vehicles/obj/Debug/net7.0/Vehicles.genruntimeconfig.cache
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/Vehicles/obj/Debug/net7.0/ref/Vehicles.dll

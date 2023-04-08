@@ -1,0 +1,25 @@
+Maak een interface genaamd IPlayer
+deze heeft de volgende methods genaamd Play, Next, Previous, Info
+
+Maak een class genaamd Jukebox die van IPlayer overneemt
+Geef deze properties:
+	read-only ID string
+	Songs List<Song>
+	private CurrentSong Song
+
+implementeer de methods,
+play speelt de audio van de song af die hij nu heeft
+Next is het volgende nummer in de lijst
+Previous is het vorige nummer uit de lijst
+
+De class Song heeft een paar properties (allemaal read-only)
+	ID string
+	Naam string
+	Muziekant string
+	SongText string
+	Length int
+En de volgende methods:
+	SetSongText(string text);
+
+
+implementeer ook de ToString voor info over het huidige nummer

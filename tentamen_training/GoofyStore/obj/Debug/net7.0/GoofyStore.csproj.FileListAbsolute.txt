@@ -1,0 +1,15 @@
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/GoofyStore/bin/Debug/net7.0/GoofyStore
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/GoofyStore/bin/Debug/net7.0/GoofyStore.deps.json
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/GoofyStore/bin/Debug/net7.0/GoofyStore.runtimeconfig.json
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/GoofyStore/bin/Debug/net7.0/GoofyStore.dll
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/GoofyStore/bin/Debug/net7.0/GoofyStore.pdb
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/GoofyStore/obj/Debug/net7.0/GoofyStore.csproj.AssemblyReference.cache
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/GoofyStore/obj/Debug/net7.0/GoofyStore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/GoofyStore/obj/Debug/net7.0/GoofyStore.AssemblyInfoInputs.cache
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/GoofyStore/obj/Debug/net7.0/GoofyStore.AssemblyInfo.cs
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/GoofyStore/obj/Debug/net7.0/GoofyStore.csproj.CoreCompileInputs.cache
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/GoofyStore/obj/Debug/net7.0/GoofyStore.dll
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/GoofyStore/obj/Debug/net7.0/refint/GoofyStore.dll
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/GoofyStore/obj/Debug/net7.0/GoofyStore.pdb
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/GoofyStore/obj/Debug/net7.0/GoofyStore.genruntimeconfig.cache
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/GoofyStore/obj/Debug/net7.0/ref/GoofyStore.dll
