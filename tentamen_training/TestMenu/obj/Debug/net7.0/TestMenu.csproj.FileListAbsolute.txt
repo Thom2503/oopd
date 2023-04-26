@@ -1,0 +1,15 @@
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/TestMenu/bin/Debug/net7.0/TestMenu
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/TestMenu/bin/Debug/net7.0/TestMenu.deps.json
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/TestMenu/bin/Debug/net7.0/TestMenu.runtimeconfig.json
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/TestMenu/bin/Debug/net7.0/TestMenu.dll
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/TestMenu/bin/Debug/net7.0/TestMenu.pdb
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/TestMenu/obj/Debug/net7.0/TestMenu.csproj.AssemblyReference.cache
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/TestMenu/obj/Debug/net7.0/TestMenu.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/TestMenu/obj/Debug/net7.0/TestMenu.AssemblyInfoInputs.cache
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/TestMenu/obj/Debug/net7.0/TestMenu.AssemblyInfo.cs
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/TestMenu/obj/Debug/net7.0/TestMenu.csproj.CoreCompileInputs.cache
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/TestMenu/obj/Debug/net7.0/TestMenu.dll
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/TestMenu/obj/Debug/net7.0/refint/TestMenu.dll
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/TestMenu/obj/Debug/net7.0/TestMenu.pdb
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/TestMenu/obj/Debug/net7.0/TestMenu.genruntimeconfig.cache
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/TestMenu/obj/Debug/net7.0/ref/TestMenu.dll
