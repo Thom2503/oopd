@@ -1,0 +1,15 @@
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week12/KlasOpdracht/obj/Debug/net7.0/KlasOpdracht.csproj.AssemblyReference.cache
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week12/KlasOpdracht/obj/Debug/net7.0/KlasOpdracht.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week12/KlasOpdracht/obj/Debug/net7.0/KlasOpdracht.AssemblyInfoInputs.cache
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week12/KlasOpdracht/obj/Debug/net7.0/KlasOpdracht.AssemblyInfo.cs
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week12/KlasOpdracht/obj/Debug/net7.0/KlasOpdracht.csproj.CoreCompileInputs.cache
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week12/KlasOpdracht/bin/Debug/net7.0/KlasOpdracht
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week12/KlasOpdracht/bin/Debug/net7.0/KlasOpdracht.deps.json
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week12/KlasOpdracht/bin/Debug/net7.0/KlasOpdracht.runtimeconfig.json
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week12/KlasOpdracht/bin/Debug/net7.0/KlasOpdracht.dll
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week12/KlasOpdracht/bin/Debug/net7.0/KlasOpdracht.pdb
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week12/KlasOpdracht/obj/Debug/net7.0/KlasOpdracht.dll
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week12/KlasOpdracht/obj/Debug/net7.0/refint/KlasOpdracht.dll
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week12/KlasOpdracht/obj/Debug/net7.0/KlasOpdracht.pdb
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week12/KlasOpdracht/obj/Debug/net7.0/KlasOpdracht.genruntimeconfig.cache
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week12/KlasOpdracht/obj/Debug/net7.0/ref/KlasOpdracht.dll

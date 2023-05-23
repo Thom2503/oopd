@@ -1,0 +1,15 @@
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week13/W13.1.H02/bin/Debug/net7.0/W13.1.H02
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week13/W13.1.H02/bin/Debug/net7.0/W13.1.H02.deps.json
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week13/W13.1.H02/bin/Debug/net7.0/W13.1.H02.runtimeconfig.json
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week13/W13.1.H02/bin/Debug/net7.0/W13.1.H02.dll
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week13/W13.1.H02/bin/Debug/net7.0/W13.1.H02.pdb
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week13/W13.1.H02/obj/Debug/net7.0/W13.1.H02.csproj.AssemblyReference.cache
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week13/W13.1.H02/obj/Debug/net7.0/W13.1.H02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week13/W13.1.H02/obj/Debug/net7.0/W13.1.H02.AssemblyInfoInputs.cache
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week13/W13.1.H02/obj/Debug/net7.0/W13.1.H02.AssemblyInfo.cs
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week13/W13.1.H02/obj/Debug/net7.0/W13.1.H02.csproj.CoreCompileInputs.cache
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week13/W13.1.H02/obj/Debug/net7.0/W13.1.H02.dll
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week13/W13.1.H02/obj/Debug/net7.0/refint/W13.1.H02.dll
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week13/W13.1.H02/obj/Debug/net7.0/W13.1.H02.pdb
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week13/W13.1.H02/obj/Debug/net7.0/W13.1.H02.genruntimeconfig.cache
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/week13/W13.1.H02/obj/Debug/net7.0/ref/W13.1.H02.dll
