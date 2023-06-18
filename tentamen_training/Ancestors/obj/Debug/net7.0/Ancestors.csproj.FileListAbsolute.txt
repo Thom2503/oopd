@@ -1,0 +1,15 @@
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/Ancestors/bin/Debug/net7.0/Ancestors
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/Ancestors/bin/Debug/net7.0/Ancestors.deps.json
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/Ancestors/bin/Debug/net7.0/Ancestors.runtimeconfig.json
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/Ancestors/bin/Debug/net7.0/Ancestors.dll
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/Ancestors/bin/Debug/net7.0/Ancestors.pdb
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/Ancestors/obj/Debug/net7.0/Ancestors.csproj.AssemblyReference.cache
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/Ancestors/obj/Debug/net7.0/Ancestors.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/Ancestors/obj/Debug/net7.0/Ancestors.AssemblyInfoInputs.cache
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/Ancestors/obj/Debug/net7.0/Ancestors.AssemblyInfo.cs
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/Ancestors/obj/Debug/net7.0/Ancestors.csproj.CoreCompileInputs.cache
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/Ancestors/obj/Debug/net7.0/Ancestors.dll
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/Ancestors/obj/Debug/net7.0/refint/Ancestors.dll
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/Ancestors/obj/Debug/net7.0/Ancestors.pdb
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/Ancestors/obj/Debug/net7.0/Ancestors.genruntimeconfig.cache
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/Ancestors/obj/Debug/net7.0/ref/Ancestors.dll

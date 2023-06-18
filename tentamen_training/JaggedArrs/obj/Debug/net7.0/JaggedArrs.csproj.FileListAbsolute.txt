@@ -1,0 +1,15 @@
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/JaggedArrs/obj/Debug/net7.0/JaggedArrs.csproj.AssemblyReference.cache
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/JaggedArrs/obj/Debug/net7.0/JaggedArrs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/JaggedArrs/obj/Debug/net7.0/JaggedArrs.AssemblyInfoInputs.cache
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/JaggedArrs/obj/Debug/net7.0/JaggedArrs.AssemblyInfo.cs
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/JaggedArrs/obj/Debug/net7.0/JaggedArrs.csproj.CoreCompileInputs.cache
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/JaggedArrs/bin/Debug/net7.0/JaggedArrs
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/JaggedArrs/bin/Debug/net7.0/JaggedArrs.deps.json
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/JaggedArrs/bin/Debug/net7.0/JaggedArrs.runtimeconfig.json
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/JaggedArrs/bin/Debug/net7.0/JaggedArrs.dll
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/JaggedArrs/bin/Debug/net7.0/JaggedArrs.pdb
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/JaggedArrs/obj/Debug/net7.0/JaggedArrs.dll
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/JaggedArrs/obj/Debug/net7.0/refint/JaggedArrs.dll
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/JaggedArrs/obj/Debug/net7.0/JaggedArrs.pdb
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/JaggedArrs/obj/Debug/net7.0/JaggedArrs.genruntimeconfig.cache
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/JaggedArrs/obj/Debug/net7.0/ref/JaggedArrs.dll

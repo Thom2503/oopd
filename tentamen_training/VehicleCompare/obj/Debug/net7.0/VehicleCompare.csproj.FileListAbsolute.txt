@@ -1,0 +1,15 @@
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/VehicleCompare/obj/Debug/net7.0/VehicleCompare.csproj.AssemblyReference.cache
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/VehicleCompare/obj/Debug/net7.0/VehicleCompare.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/VehicleCompare/obj/Debug/net7.0/VehicleCompare.AssemblyInfoInputs.cache
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/VehicleCompare/obj/Debug/net7.0/VehicleCompare.AssemblyInfo.cs
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/VehicleCompare/obj/Debug/net7.0/VehicleCompare.csproj.CoreCompileInputs.cache
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/VehicleCompare/bin/Debug/net7.0/VehicleCompare
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/VehicleCompare/bin/Debug/net7.0/VehicleCompare.deps.json
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/VehicleCompare/bin/Debug/net7.0/VehicleCompare.runtimeconfig.json
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/VehicleCompare/bin/Debug/net7.0/VehicleCompare.dll
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/VehicleCompare/bin/Debug/net7.0/VehicleCompare.pdb
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/VehicleCompare/obj/Debug/net7.0/VehicleCompare.dll
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/VehicleCompare/obj/Debug/net7.0/refint/VehicleCompare.dll
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/VehicleCompare/obj/Debug/net7.0/VehicleCompare.pdb
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/VehicleCompare/obj/Debug/net7.0/VehicleCompare.genruntimeconfig.cache
+/Users/thom2503/Documents/School/Leerjaar_1/semester_2/oopd/tentamen_training/VehicleCompare/obj/Debug/net7.0/ref/VehicleCompare.dll
