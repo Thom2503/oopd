@@ -29,7 +29,27 @@ public class Garage
 	public void Remove()
 	{
 		Vehicles.RemoveAt(0);
-		Vehicles.Add(QueuedVehicles.Dequeue());
+		try
+		{
+			Vehicles.Add(QueuedVehicles.Dequeue());
+		}
+		catch (Exception ex)
+		{
+			return;
+		}
+	}
+
+	public void Remove(IVehicle vehicle)
+	{
+		Vehicles.RemoveAll(x => x.Equals(vehicle));
+		try
+		{
+			Vehicles.Add(QueuedVehicles.Dequeue());
+		}
+		catch (Exception ex)
+		{
+			return;
+		}
 	}
 
 	public IVehicle GetFirstInQueue() => QueuedVehicles.Peek();
@@ -76,5 +96,38 @@ public class Garage
 			vehicles.RemoveAt(0);
 			return 0 + GetAmountOfType(vehicles, vehicleType);
 		}
+	}
+
+	public int FindOldestVehicle(List<IVehicle> vehicles, int year = 0)
+	{
+		if (year == 0)
+			return FindOldestVehicle(vehicles, FindYoungestVehicle(new List<IVehicle>(vehicles), year));
+		if (vehicles.Count() <= 0)
+			return year;
+		IVehicle vehicle = vehicles[0];
+		vehicles.RemoveAt(0);
+		if (vehicle.Year < year)
+			return FindOldestVehicle(vehicles, vehicle.Year);
+		else
+			return FindOldestVehicle(vehicles, year);
+	}
+
+	public int FindYoungestVehicle(List<IVehicle> vehicles, int year = 0)
+	{
+		if (vehicles.Count() <= 0)
+			return year;
+		IVehicle vehicle = vehicles[0];
+		vehicles.RemoveAt(0);
+		if (vehicle.Year > year)
+			return FindYoungestVehicle(vehicles, vehicle.Year);
+		else
+			return FindYoungestVehicle(vehicles, year);
+	}
+
+	public void DoActionPerType(VehicleTypes type, Action<IVehicle> func)
+	{
+		foreach (IVehicle _vehicle in Vehicles.ToArray())
+			if (_vehicle.VehicleType == type)
+				func(_vehicle);
 	}
 }

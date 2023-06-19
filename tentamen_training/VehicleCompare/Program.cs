@@ -40,6 +40,24 @@ public class Program
 			tmpVehicles = new List<IVehicle>(garage.Vehicles);
 			amountPerType[type] = garage.GetAmountOfType(tmpVehicles, type);
 		}
-		Console.WriteLine(amountPerType[VehicleTypes.Car]);
+		foreach (KeyValuePair<VehicleTypes, int> kvp in amountPerType)
+		{
+			Console.WriteLine($"The Type {kvp.Key} has {kvp.Value} amount");
+		}
+		garage.Vehicles.Where(x => x.VehicleType == VehicleTypes.Bike).ToList().ForEach(x => Console.WriteLine($"{x.Brand} {x.Make} is a Bike!"));
+		garage.Vehicles.Where(x => x.Year >= 2000)
+		               .GroupBy(x => x.VehicleType)
+					   .ToList()
+					   .ForEach(X => Console.WriteLine($"There are {X.Count()} amount of {X.Key}"));
+		Console.WriteLine($"The oldest vehicle is: {garage.FindOldestVehicle(new List<IVehicle>(garage.Vehicles))}");
+		Console.WriteLine($"The youngest vehicle is: {garage.FindYoungestVehicle(new List<IVehicle>(garage.Vehicles))}");
+		Console.WriteLine("---------------");
+		garage.DoActionPerType(VehicleTypes.Car, (x) => {
+			Console.WriteLine($"Removing {x.ToString()}");
+			garage.Remove(x);
+		});
+		Console.WriteLine("---------------");
+		foreach (IVehicle _vehicle in garage.Vehicles)
+			Console.WriteLine(_vehicle.ToString());
 	}
 }
