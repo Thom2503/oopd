@@ -49,6 +49,7 @@ public class Program
 		               .GroupBy(x => x.VehicleType)
 					   .ToList()
 					   .ForEach(X => Console.WriteLine($"There are {X.Count()} amount of {X.Key}"));
+		Console.WriteLine("---------------");
 		Console.WriteLine($"The oldest vehicle is: {garage.FindOldestVehicle(new List<IVehicle>(garage.Vehicles))}");
 		Console.WriteLine($"The youngest vehicle is: {garage.FindYoungestVehicle(new List<IVehicle>(garage.Vehicles))}");
 		Console.WriteLine("---------------");

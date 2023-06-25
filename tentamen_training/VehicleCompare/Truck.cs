@@ -20,7 +20,7 @@ public class Truck : IVehicle, IComparable<IVehicle>, IEquatable<Truck>
 		if (ret != 0)
 			return ret;
 		ret = Make.CompareTo(other.Make);
-		if (ret != 1)
+		if (ret != 0)
 			return ret;
 		return Year.CompareTo(other.Year);
 	}
